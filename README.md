@@ -1,6 +1,6 @@
 # Coffee
 
-The blog post can be found on Medium.
+The blog post can be found on [Medium]().
 
 ## Licensing
 
