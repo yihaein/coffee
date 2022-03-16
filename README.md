@@ -12,6 +12,8 @@ Profits are higher in coffee than tea.
 
 In terms of coffee, profits are higher in regular coffee than espresso coffee, and in terms of tea, profits are higher in herbal tea than regular tea.
 
+Overall, regular coffee has the highest profits and regular tea has the lowest profits.
+
 The blog post can be found on [Medium](https://medium.com/@yihaein/coffee-6667133ae82e).
 
 ## Licensing
