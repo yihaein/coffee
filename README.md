@@ -2,6 +2,10 @@
 
 On average, sales are higher with more marketing, and profits are higher with more sales, so that profits are higher with more marketing.
 
+This is because marketing provides awareness, which leads to an increase in sales due to more items being sold, and therefore more profit, as more money is made as more items are sold.
+
+Coffee from major markets provide more marketing, sales, and profits
+
 The blog post can be found on [Medium](https://medium.com/@yihaein/coffee-6667133ae82e).
 
 ## Licensing
