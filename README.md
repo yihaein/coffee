@@ -1,6 +1,8 @@
 # Coffee from major markets provide more marketing, sales, and profits
 
-The blog post can be found on [Medium]().
+On average, sales are higher with more marketing, and profits are higher with more sales.
+
+The blog post can be found on [Medium](https://medium.com/@yihaein/coffee-6667133ae82e).
 
 ## Licensing
 
