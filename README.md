@@ -6,6 +6,8 @@ This is because marketing provides awareness, which leads to an increase in sale
 
 Coffee from major markets provide more marketing, sales, and profits due to major markets being better known that small markets.
 
+Profits are higher in non-decaf types than decaf types.
+
 The blog post can be found on [Medium](https://medium.com/@yihaein/coffee-6667133ae82e).
 
 ## Licensing
