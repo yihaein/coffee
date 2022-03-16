@@ -8,6 +8,8 @@ Coffee from major markets provide more marketing, sales, and profits due to majo
 
 Profits are higher in non-decaf types than decaf types.
 
+Profits are higher in coffee than tea.
+
 The blog post can be found on [Medium](https://medium.com/@yihaein/coffee-6667133ae82e).
 
 ## Licensing
