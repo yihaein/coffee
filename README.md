@@ -1,4 +1,4 @@
-# Coffee from major markets provide more marketing, sales, and profits
+# Major markets and non-decaf coffee provide more profits
 
 On average, sales are higher with more marketing, and profits are higher with more sales, so that profits are higher with more marketing.
 
