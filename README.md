@@ -1,14 +1,10 @@
-# Major markets and non-decaf coffee provide more profits
+# Major markets and non-decaf regular coffee, decaf espresso coffee, and herbal tea provide more profits
 
 On average, sales are higher with more marketing, and profits are higher with more sales, so that profits are higher with more marketing.
 
 This is because marketing provides awareness, which leads to an increase in sales due to more items being sold, and therefore more profit, as more money is made as more items are sold.
 
-Coffee from major markets provide more marketing, sales, and profits due to major markets being better known that small markets.
-
-Profits are higher in non-decaf types than decaf types.
-
-Profits are higher in coffee than tea.
+Coffee and tea from major markets provide more marketing, sales, and profits due to major markets being better known that small markets.
 
 In terms of coffee, profits are higher in regular coffee than espresso coffee, and in terms of tea, profits are higher in herbal tea than regular tea.
 
